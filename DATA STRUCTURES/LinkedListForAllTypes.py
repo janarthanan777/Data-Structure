@@ -38,4 +38,4 @@ class LinkedList:
             self.add(random.randint(min, max))
         return self
 ll = LinkedList()
-print(ll.generate(10, 100, 1))
+#print(ll.generate(10, 10, 1))
